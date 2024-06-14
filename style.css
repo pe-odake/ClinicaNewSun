@@ -49,6 +49,7 @@ body{
     height: 350vh;
     overflow-x: hidden;
     overflow-y: auto;
+    font-family: 'arvo';
 }
 div{
     position: relative;
@@ -654,6 +655,11 @@ footer{
 .rodape p{
     font-family: 'arvo';
     font-size: 18px;
+}
+
+.infos a{
+  color: white;
+  text-decoration: none;
 }
 
 .hr-espaco{
